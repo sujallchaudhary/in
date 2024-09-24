@@ -75,14 +75,14 @@ const DirectorsMessage = () => {
           <div className="lg:w-2/3 mb-10">
             <h2 className="text-3xl font-bold mb-6 text-primary">Director One</h2>
             <p className="text-lg leading-relaxed text-gray-300 mb-6">
-              “Orflax India has always stood for excellence, innovation, and integrity. Since our inception,
+            &quot;Orflax India has always stood for excellence, innovation, and integrity. Since our inception,
               we have embarked on a journey of growth, driven by a relentless pursuit of quality and customer
               satisfaction. Today, I am proud to say that we have not only met but exceeded our goals,
-              becoming a trusted name in the field of wires and cables manufacturing.”
+              becoming a trusted name in the field of wires and cables manufacturing.&quot;
             </p>
             <p className="text-lg leading-relaxed text-gray-300">
-              "We believe that our employees, customers, and partners are the pillars of our success. Together,
-              we will continue to create a future that is bright and full of opportunities."
+            &quot;We believe that our employees, customers, and partners are the pillars of our success. Together,
+              we will continue to create a future that is bright and full of opportunities.&quot;
             </p>
           </div>
         </div>
@@ -91,14 +91,14 @@ const DirectorsMessage = () => {
           <div className="lg:w-2/3">
             <h2 className="text-3xl font-bold mb-6 text-primary">Director Two</h2>
             <p className="text-lg leading-relaxed text-gray-300 mb-6">
-              “Orflax India has always stood for excellence, innovation, and integrity. Since our inception,
+            &quot;Orflax India has always stood for excellence, innovation, and integrity. Since our inception,
               we have embarked on a journey of growth, driven by a relentless pursuit of quality and customer
               satisfaction. Today, I am proud to say that we have not only met but exceeded our goals,
-              becoming a trusted name in the field of wires and cables manufacturing.”
+              becoming a trusted name in the field of wires and cables manufacturing.&quot;
             </p>
             <p className="text-lg leading-relaxed text-gray-300">
-              "We believe that our employees, customers, and partners are the pillars of our success. Together,
-              we will continue to create a future that is bright and full of opportunities."
+            &quot;We believe that our employees, customers, and partners are the pillars of our success. Together,
+              we will continue to create a future that is bright and full of opportunities.&quot;
             </p>
           </div>
           <div className="lg:w-1/3">
