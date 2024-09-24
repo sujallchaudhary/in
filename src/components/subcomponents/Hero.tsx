@@ -69,12 +69,12 @@ const Hero = () => {
       {/* Left side: Text content */}
       <div className='w-1/2 text-left text-white relative z-10'>
         <h2 className='text-4xl md:text-5xl p-2 text-primary font-bold mb-4'>
-          World&quot;s Leading Cable Wire Industry
+          World's Leading Cable Wire Industry
         </h2>
         {/* Review Section */}
         <div className='mt-4 p-4 rounded-full backdrop-filter backdrop-blur-md bg-white/20 border border-white/20 shadow-lg'>
           <p className='text-center text-lg text-white italic'>
-            "{reviews[currentReview]}"
+          &quot;{reviews[currentReview]}&quot;
           </p>
         </div>
         <p className='text-lg mb-4 mt-4 leading-relaxed'>
